@@ -1,5 +1,5 @@
 # CorresAttnTransformer Implementation
-The official implementation of `CorresAttnTransformer` for IEEE Transactions on Multimedia Paper [Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning](https://ieeexplore.ieee.org/document/9741369) by Jiayi Ma, Yang Wang, Aoxiang Fan, Guobao Xiao, and Riqing Chen.
+The official implementation of `CorresAttnTransformer` for IEEE Transactions on Multimedia 2022 Paper [Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning](https://ieeexplore.ieee.org/document/9741369) by Jiayi Ma, Yang Wang, Aoxiang Fan, Guobao Xiao, and Riqing Chen.
 
 Highlights:
 
@@ -55,13 +55,3 @@ python main.py --run_mode= 'train'
 
 You can train the fundamental estimation model by setting `--use_fundamental=True --geo_loss_margin=0.03` and use side information by setting `--use_ratio=2 --use_mutual=2`
 
-### Acknowledgement
-This code is heavily borrowed from [zjhthu/OANet](https://github.com/zjhthu/OANet). If you use the part of code related to data generation, testing and evaluation, you should cite this paper and follow its license.
-```bash
-@article{zhang2019oanet,
-  title={Learning Two-View Correspondences and Geometry Using Order-Aware Network},
-  author={Zhang, Jiahui and Sun, Dawei and Luo, Zixin and Yao, Anbang and Zhou, Lei and Shen, Tianwei and Chen, Yurong and Quan, Long and Liao, Hongen},
-  journal={International Conference on Computer Vision (ICCV)},
-  year={2019}
-}
-```
