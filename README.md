@@ -1,8 +1,6 @@
 # CorresAttnTransformer Implementation
 The official implementation of `CorresAttnTransformer` for IEEE Transactions on Multimedia 2022 Paper [Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning](https://ieeexplore.ieee.org/document/9741369) by Jiayi Ma, Yang Wang, Aoxiang Fan, Guobao Xiao, and Riqing Chen.
 
-![image](https://github.com/WangyangCharles1/CorresAttnTransformer/blob/main/architecture.png)
-
 Highlights:
 
 1) MLP-based deep architecture and Self-Attention mechanism for Two-view Correspondence Learning;
