@@ -9,7 +9,7 @@ HIGHLIGHTS:
 
 3) Second-order Covariance Normalized Channel Attention with less GPU memory.
      
-If you're inspried by our work, welcome to follow and cite it!
+If our work is inspired for you, welcome to follow and cite it!
 ```bash
 @ARTICLE{9741369,
   author={Ma, Jiayi and Wang, Yang and Fan, Aoxiang and Xiao, Guobao and Chen, Riqing},
