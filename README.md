@@ -11,7 +11,7 @@ Highlights:
      
 If our work is inspired for you, welcome to follow and cite it!
 ```bash
-@ARTICLE{9741369,
+@ARTICLE{Ma2022CAT,
   author={Ma, Jiayi and Wang, Yang and Fan, Aoxiang and Xiao, Guobao and Chen, Riqing},
   journal={IEEE Transactions on Multimedia}, 
   title={Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning}, 
