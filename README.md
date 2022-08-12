@@ -5,9 +5,9 @@ Highlights:
 
 1) MLP-based deep architecture and Self-Attention mechanism for Two-view Correspondence Learning;
 
-2) Spatial MultiHead Attention structure to exploit the geometrical context from different aspects; 
+2) Spatial MultiHead Attention structure to exploit the geometrical context of correspondence data from different aspects; 
 
-3) Second-order Covariance Normalized Channel Attention with less GPU memory.
+3) Second-order Covariance Normalized Channel Attention with consuming less GPU memory than Spatial MultiHead Attention.
      
 If our work is inspired for you, welcome to follow and cite it!
 ```bash
